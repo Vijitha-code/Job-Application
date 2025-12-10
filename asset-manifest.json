@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vijitha-code/Job-Application.git/static/css/main.0f3b6a1c.css",
+    "main.js": "/Vijitha-code/Job-Application.git/static/js/main.9907eda8.js",
+    "static/js/136.ca809640.chunk.js": "/Vijitha-code/Job-Application.git/static/js/136.ca809640.chunk.js",
+    "index.html": "/Vijitha-code/Job-Application.git/index.html",
+    "main.0f3b6a1c.css.map": "/Vijitha-code/Job-Application.git/static/css/main.0f3b6a1c.css.map",
+    "main.9907eda8.js.map": "/Vijitha-code/Job-Application.git/static/js/main.9907eda8.js.map",
+    "136.ca809640.chunk.js.map": "/Vijitha-code/Job-Application.git/static/js/136.ca809640.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f3b6a1c.css",
+    "static/js/main.9907eda8.js"
+  ]
+}
